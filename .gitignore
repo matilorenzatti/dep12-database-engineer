@@ -1,0 +1,6 @@
+# Vamos a ignorar nuestro entorno virtual, para que no se suba a nuestro repositorio remoto
+entorno_virtual
+
+# Vamos a ignorar los archivos de la mac
+.DS_store
+
